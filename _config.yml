@@ -1,4 +1,4 @@
-theme: !include themes.yaml
+theme: midnight
 title: Title - modified
 author: Brandon
 description: Description
