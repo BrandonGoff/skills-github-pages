@@ -6,4 +6,4 @@ Talk about where this website came from and the potential of GitHub Pages.
 ## What we will be learning.
 How to do this
 
-![about me](https://brandongoff.github.io/skills-github-pages/aboutme)
+[about me](https://brandongoff.github.io/skills-github-pages/aboutme)
