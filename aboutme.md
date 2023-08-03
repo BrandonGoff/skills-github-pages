@@ -1,11 +1,7 @@
+This content is shown in 'aboutme.md'
 
-
-https://github.com/BrandonGoff/communicate-using-markdown.git
-
-This content is shown in 'index.md' of the above repository
-
-# This is an h1 header, which is the largest
-## This is an h2 header
+# Brandon Goff (H1 header)
+## This is my test content for this workshop (H2 header)
 ###### This is an h6 header, which is the smallest
 ![VIbes](https://cdnb.artstation.com/p/assets/images/images/014/665/033/original/yargon-kerman-webp-net-gifmaker-39.gif)
 ```SQL
